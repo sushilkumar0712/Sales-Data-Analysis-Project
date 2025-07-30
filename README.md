@@ -1,1 +1,1 @@
-# Sales-Data-Analysis-Project
+Conducted an in-depth data analytics project on a dataset of 9,994 orders, leveraging SQL to extract actionable insights from sales, customer, and return data across multiple dimensions, including regions, categories, and time periods. Addressed 42 complex queries to uncover trends, optimize business decisions, and enhance operational efficiency.
